@@ -1,4 +1,4 @@
 export function printMsg() {
-    console.log("Visit  https://mild-error.github.io/Annies-and-Matthew-s-Wedding-website/ !");
+    console.log("Visit  https://kayekelu.co.uk !");
 }
 
