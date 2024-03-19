@@ -291,6 +291,18 @@
 
 }
 
+
+@media (max-width: 480px) {
+    .responsive-ux #logo img {  width: 120px; }
+    }
+    @media (max-width: 767px) {
+    .responsive-ux .logo-image {  width: 120px; }
+    }
+
+@media (max-width: 100%) and (orientation: portrait) {
+    .fullscreen-wrap.fullwidth-wrap.fullwidth-half { height:auto!important; }
+    }
+
 @media screen and (max-width: 480px) {
     .hero .hero-content {
         padding-top: 110%;
@@ -374,17 +386,17 @@
   box-sizing: border-box;
 }
 
-/* Create three equal columns that floats next to each other */
+/* Create three equal columns that floats next to each other 
 .column {
   float: left;
-  width: 33.33%;
+  width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-}
+  height: 250px; /* Should be removed. Only for demonstration 
+}*/
 
-/* Clear floats after the columns */
+/* Clear floats after the columns 
 .row:after {
   content: "";
   display: table;
   clear: both;
-}
+}*/

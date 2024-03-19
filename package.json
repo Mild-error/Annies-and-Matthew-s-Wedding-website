@@ -17,7 +17,7 @@
   ],
   "author": "Annie Kelu",
   "license": "GPL-3.0",
-  "homepage": "https://mild-error.github.io/Annies-and-Matthew-s-Wedding-website/?fbclid=IwAR0DGyWbN_pawC6radvgGpOI02peug_WH9wjoRgLFpp76_qRpQ7IBqdGu98",
+  "homepage": "https://github.com/Mild-error/Annies-and-Matthew-s-Wedding-website.git",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
