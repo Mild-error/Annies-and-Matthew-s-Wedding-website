@@ -377,10 +377,10 @@
     }
 }
 
-#mlinks{width:500px;}
+/*#mlinks{width:500px;}
 #mlinks ul{margin:0; padding:0; list-style-type: circle;}
 #mlinks ul li{list-style-type: square;}
-
+*/
 
 * {
   box-sizing: border-box;
